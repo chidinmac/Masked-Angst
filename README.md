@@ -1,3 +1,3 @@
 # Masked-Angst
-![alt text](Slide 1.JPG)
+![alt text](Slide1.JPG)
 **AAAA**
